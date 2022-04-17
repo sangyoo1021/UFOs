@@ -9,9 +9,9 @@ In this project we are organizing our data and presenting in HTML. By organizing
 
 Using JavaScript code, HTML page was created, decorated, and added features to filter the data. As one can see from the below image, the page was created with layouts and images. Filters were added so that users can enter in date, city, state, country and shape. 
 
-![page_overview](address)
+![page_overview](https://github.com/sangyoo1021/UFOs/blob/main/page_overview.png)
 
-![filter](address)
+![filter](https://github.com/sangyoo1021/UFOs/blob/main/filter.png)
 
 ## Summary
 
